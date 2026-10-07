@@ -65,7 +65,7 @@ export function ListaCriaturas() {
               <th>Tipo</th>
               <th>Nivel de peligro</th>
               <th>Estado</th>
-              <th>Acciones</th>
+              <th>Acciones por realizar</th>
             </tr>
           </thead>
           <tbody>
